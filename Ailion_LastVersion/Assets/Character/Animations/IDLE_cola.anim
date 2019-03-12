@@ -1,0 +1,6009 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: IDLE_cola
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.044000003, y: 7.2580004, z: 4.281}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.044000003, y: 7.2580004, z: 10.265}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.044000003, y: 7.2580004, z: -6.642}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -1.7750001, y: -7.7970004, z: -6.4020004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -1.7730001, y: -7.781, z: -15.678}
+        inSlope: {x: 0.0026666324, y: 0.021333694, z: 0}
+        outSlope: {x: 0.0026666324, y: 0.021333694, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.91, y: -0.27, z: 7.01}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -1.7750001, y: -7.7970004, z: -6.4020004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.044000003, y: 7.2580004, z: -3.2730002}
+        inSlope: {x: 0, y: 0, z: 4.1720004}
+        outSlope: {x: 0, y: 0, z: 4.1720004}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.91, y: -0.27, z: 7.01}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.044000003, y: 7.2580004, z: 4.281}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -1.7910001, y: -1.062, z: -6.3170004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -1.7910001, y: -1.062, z: -3.755}
+        inSlope: {x: 0, y: 0, z: 3.4160001}
+        outSlope: {x: 0, y: 0, z: 3.4160001}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -1.7910001, y: -1.062, z: 7.7360005}
+        inSlope: {x: 0, y: 0, z: 8.709001}
+        outSlope: {x: 0, y: 0, z: 8.709001}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -1.7910001, y: -1.062, z: 22.372002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -1.7910001, y: -1.001, z: -24.577002}
+        inSlope: {x: 0, y: 0.08133332, z: 0}
+        outSlope: {x: 0, y: 0.08133332, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -1.7680001, y: 17.596, z: 16.967001}
+        inSlope: {x: 0, y: 0, z: 7.2066708}
+        outSlope: {x: 0, y: 0, z: 7.2066708}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -1.7910001, y: -1.062, z: 22.372002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -1.7910001, y: -1.062, z: -42.797}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -11.790001, y: 54.692, z: 12.4140005}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -1.7910001, y: -1.062, z: -6.3170004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.1550001, y: 10.910001, z: -2.1490002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 1.1550001, y: 10.910001, z: 4.281}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 2.138, y: -8.583, z: -47.113003}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 2.138, y: -8.583, z: 8.027}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: 2.125, y: -8.588, z: -17.487001}
+        inSlope: {x: -0.017333347, y: -0.006666819, z: -0.26266557}
+        outSlope: {x: -0.017333347, y: -0.006666819, z: -0.26266557}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -1.9350001, y: -10.023001, z: -17.684}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 2.138, y: -8.583, z: 8.027}
+        inSlope: {x: 0, y: 1.9200008, z: 0}
+        outSlope: {x: 0, y: 1.9200008, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: 1.6980001, y: 26.742, z: -1.7520001}
+        inSlope: {x: 0, y: 0, z: -9.442}
+        outSlope: {x: 0, y: 0, z: -9.442}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: 6.8100004, y: 12.706, z: -20.299002}
+        inSlope: {x: 0, y: -2.394666, z: 0}
+        outSlope: {x: 0, y: -2.394666, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: 1.1550001, y: 10.910001, z: -2.1490002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.79200006, y: 5.7720003, z: 4.086}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.79200006, y: 5.7720003, z: 6.1250005}
+        inSlope: {x: 0, y: 0, z: 2.7186673}
+        outSlope: {x: 0, y: 0, z: 2.7186673}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 5.1990004, y: -44.132004, z: 17.826}
+        inSlope: {x: 0, y: 0, z: 6.4483337}
+        outSlope: {x: 0, y: 0, z: 6.4483337}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 3.4570003, y: -20.829, z: 25.470001}
+        inSlope: {x: -2.322667, y: 0, z: 0}
+        outSlope: {x: -2.322667, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -11.543, y: -28.044, z: -22.854002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -9.817, y: 5.6590004, z: 14.124001}
+        inSlope: {x: 2.3013332, y: 0, z: 15.128001}
+        outSlope: {x: 2.3013332, y: 0, z: 15.128001}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 3.4570003, y: -20.829, z: 25.470001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: 0.79200006, y: 5.7720003, z: 4.086}
+        inSlope: {x: 0, y: 10.861333, z: 0}
+        outSlope: {x: 0, y: 10.861333, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: 11.021001, y: 13.918, z: 14.779}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: 0.79200006, y: 5.7720003, z: 4.086}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.96400005, y: 12.559001, z: 4.3500004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.96400005, y: 12.559001, z: 7.7900004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 2.102, y: -9.891001, z: 7.564}
+        inSlope: {x: 0, y: 0, z: -0.30133376}
+        outSlope: {x: 0, y: 0, z: -0.30133376}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 2.102, y: -9.891001, z: -18.086}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -4.5540004, y: -30.316002, z: -17.644001}
+        inSlope: {x: 0, y: 0, z: 0.58933264}
+        outSlope: {x: 0, y: 0, z: 0.58933264}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: 17.172, y: 35.236, z: 17.412}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -6.341, y: -36.049004, z: -17.099}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.96400005, y: 12.559001, z: 4.3500004}
+        inSlope: {x: 0, y: 0, z: 15.312668}
+        outSlope: {x: 0, y: 0, z: 15.312668}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -53.65, y: 6.0290003, z: 28.839}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.96400005, y: 12.559001, z: 4.3500004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 1.1520001, y: -21.79, z: 3.301}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 1.1520001, y: -21.79, z: 11.51}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -3.3420002, y: 0.42600003, z: -59.062004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -3.3420002, y: 0.42600003, z: -10.624001}
+        inSlope: {x: 0, y: 0, z: 23.319336}
+        outSlope: {x: 0, y: 0, z: 23.319336}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: 0.70500004, y: 21.275002, z: 10.896001}
+        inSlope: {x: 0, y: 0, z: 19.313334}
+        outSlope: {x: 0, y: 0, z: 19.313334}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -21.962002, y: -9.924001, z: 47.316}
+        inSlope: {x: -12.269666, y: 0, z: 0}
+        outSlope: {x: -12.269666, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -36.104, y: 7.649, z: -13.167001}
+        inSlope: {x: 0, y: 0, z: -25.952005}
+        outSlope: {x: 0, y: 0, z: -25.952005}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: 1.1520001, y: -21.79, z: -32.631}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -21.962002, y: -9.924001, z: 47.316}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: 1.1520001, y: -21.79, z: 3.301}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -2.6520002, y: 37.544003, z: 4.0230002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -2.6520002, y: 37.544003, z: 20.099}
+        inSlope: {x: 0, y: 0, z: 7.382667}
+        outSlope: {x: 0, y: 0, z: 7.382667}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -5.4500003, y: -5.3580003, z: 26.171001}
+        inSlope: {x: 0, y: 0, z: 8.096001}
+        outSlope: {x: 0, y: 0, z: 8.096001}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -5.4500003, y: -5.3580003, z: 52.954002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -43.195004, y: 15.959001, z: 9.157001}
+        inSlope: {x: 0, y: 14.680335, z: 0}
+        outSlope: {x: 0, y: 14.680335, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: 75.267006, y: 38.683002, z: 62.732002}
+        inSlope: {x: 0, y: 0.57200265, z: 0}
+        outSlope: {x: 0, y: 0.57200265, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 24.848001, y: 39.112003, z: 61.116}
+        inSlope: {x: -25.973001, y: 0, z: -2.154668}
+        outSlope: {x: -25.973001, y: 0, z: -2.154668}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -2.6520002, y: 37.544003, z: 20.944}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: 75.267006, y: 38.683002, z: 62.732002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -2.6520002, y: 37.544003, z: 4.0230002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.395, y: 10.408001, z: -9.456}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.395, y: 10.408001, z: -25.288002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 16.058, y: 11.861001, z: 5.118}
+        inSlope: {x: 7.8470006, y: 0, z: 14.239667}
+        outSlope: {x: 7.8470006, y: 0, z: 14.239667}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 23.146002, y: -7.781, z: 17.431002}
+        inSlope: {x: 0, y: 0, z: 5.9480004}
+        outSlope: {x: 0, y: 0, z: 5.9480004}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: 17.679, y: 7.971, z: 22.962002}
+        inSlope: {x: -7.289335, y: 0, z: 0}
+        outSlope: {x: -7.289335, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.51100004, y: -3.2440002, z: 5.0140004}
+        inSlope: {x: 0, y: 0, z: -15.319}
+        outSlope: {x: 0, y: 0, z: -15.319}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 45.725002, y: 2.273, z: -22.995}
+        inSlope: {x: 0, y: 4.5506673, z: 0}
+        outSlope: {x: 0, y: 4.5506673, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.395, y: 10.408001, z: 37.355003}
+        inSlope: {x: -0.15466645, y: 0, z: 0}
+        outSlope: {x: -0.15466645, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.51100004, y: -3.2440002, z: -21.661001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.395, y: 10.408001, z: -9.456}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.84700006, y: 8.161, z: -3.2110002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.84700006, y: 8.161, z: -20.585001}
+        inSlope: {x: 0, y: 0, z: -10.232333}
+        outSlope: {x: 0, y: 0, z: -10.232333}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 0.46500003, y: 7.1450005, z: -33.908}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 2.7540002, y: 13.26, z: -20.425001}
+        inSlope: {x: 0, y: 8.153334, z: 7.1283336}
+        outSlope: {x: 0, y: 8.153334, z: 7.1283336}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -11.959001, y: 63.272003, z: -12.523001}
+        inSlope: {x: 0, y: 0, z: 6.796}
+        outSlope: {x: 0, y: 0, z: 6.796}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -8.492001, y: -13.3810005, z: -0.037}
+        inSlope: {x: 4.622667, y: 0, z: 0}
+        outSlope: {x: 4.622667, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 2.7540002, y: 13.26, z: -38.691}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: 0.84700006, y: 8.161, z: 15.394001}
+        inSlope: {x: 0, y: -6.7986665, z: 13.482671}
+        outSlope: {x: 0, y: -6.7986665, z: 13.482671}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: 0.92700005, y: -13.387001, z: 25.506}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: 0.84700006, y: 8.161, z: -3.2110002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: 0.79600006, y: 7.8700004, z: -0.202}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: 0.79600006, y: 7.8700004, z: -43.159}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: 27.342001, y: 40.478, z: -34.802002}
+        inSlope: {x: 0, y: 19.956335, z: 11.142665}
+        outSlope: {x: 0, y: 19.956335, z: 11.142665}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: 25.395, y: 67.739006, z: 10.620001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: 27.075, y: 53.522003, z: 4.309}
+        inSlope: {x: 0, y: -13.927335, z: 0}
+        outSlope: {x: 0, y: -13.927335, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: 13.935, y: 25.957, z: 71.784004}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: 25.395, y: 67.739006, z: 10.620001}
+        inSlope: {x: 0, y: 0, z: -14.429335}
+        outSlope: {x: 0, y: 0, z: -14.429335}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: 0.79600006, y: 7.8700004, z: -0.202}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: 13.935, y: 25.957, z: 81.97}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: 0.79600006, y: 7.8700004, z: -0.202}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.1362109, y: -0.000000039115548, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.13621059, y: -0.00000004156027, z: 0}
+        inSlope: {x: 0.00000031292439, y: -0.0000000024447218, z: 0}
+        outSlope: {x: 0.00000031292439, y: -0.0000000024447218, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.13620996, y: -0.000000046449713, z: 0}
+        inSlope: {x: 0.0000002682209, y: -0.0000000020954758, z: 0}
+        outSlope: {x: 0.0000002682209, y: -0.0000000020954758, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.13620979, y: -0.000000047846697, z: 0}
+        inSlope: {x: 0, y: -0, z: 0}
+        outSlope: {x: 0, y: -0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.13620824, y: -0.00000005995389, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.13620923, y: -0.000000052154064, z: 0}
+        inSlope: {x: -0.0000005165736, y: 0.0000000040357313, z: 0}
+        outSlope: {x: -0.0000005165736, y: 0.0000000040357313, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.13620979, y: -0.000000047846697, z: 0}
+        inSlope: {x: -0.0000005265077, y: 0.0000000041133412, z: 0}
+        outSlope: {x: -0.0000005265077, y: 0.0000000041133412, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.13621081, y: -0.00000003981404, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.13620923, y: -0.000000052154064, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.1362109, y: -0.000000039115548, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.07794268, y: -0.000000019557774, z: 0.0000009392461}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.077942654, y: -0.000000021362212, z: 0.0000010020958}
+        inSlope: {x: 0, y: -0, z: 0.000000030512133}
+        outSlope: {x: 0, y: -0, z: 0.000000030512133}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.077942766, y: -0.000000049287337, z: 0.0000010765507}
+        inSlope: {x: -0.000000049670536, y: -0.000000023360675, z: 0.000000017567395}
+        outSlope: {x: -0.000000049670536, y: -0.000000023360675, z: 0.000000017567395}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.07794288, y: -0.00000012648525, z: 0.0000010811491}
+        inSlope: {x: -0, y: -0, z: 0}
+        outSlope: {x: -0, y: -0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.07794494, y: -0.000002361834, z: 0.0000014003599}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.077942766, y: -0.000000049287337, z: 0.0000010765507}
+        inSlope: {x: 0.00000076492626, y: 0.0000007800506, z: 0}
+        outSlope: {x: 0.00000076492626, y: 0.0000007800506, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.07794265, y: -0.000000021682354, z: 0.0000011832017}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.07794512, y: -0.0000022631139, z: 0.0000016604608}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.07794268, y: -0.000000019557774, z: 0.0000009392461}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.07558397, y: 0.000004275516, z: 0.00000014234683}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.075584516, y: 0.0000043491195, z: 0.000000094325515}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.07558373, y: 0.00000426422, z: 0.000005078502}
+        inSlope: {x: 0.00000027318796, y: -0.00000006700308, z: 0}
+        outSlope: {x: 0.00000027318796, y: -0.00000006700308, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.0755837, y: 0.0000041481103, z: 0.0000050390954}
+        inSlope: {x: 0, y: -0.000000041497213, z: 0}
+        outSlope: {x: 0, y: -0.000000041497213, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.07558298, y: 0.0000041397284, z: 0.0000058567384}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.0755835, y: 0.00000420073, z: 0.0000030198134}
+        inSlope: {x: -0.00000023841858, y: 0, z: 0}
+        outSlope: {x: -0.00000023841858, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.0755837, y: 0.0000041481103, z: 0.0000050390954}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.07558336, y: 0.000004846602, z: 0.00000035960693}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.07558414, y: 0.0000040926966, z: 0.0000036600977}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.07558397, y: 0.000004275516, z: 0.00000014234683}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.075737394, y: 0.0000015625413, z: 0.000000067346264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.07573743, y: 0.0000014715482, z: 0.000000076252036}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.07573759, y: 0.0000014994297, z: 0.0000002188608}
+        inSlope: {x: 0, y: 0.000000028155531, z: 0}
+        outSlope: {x: 0, y: 0.000000028155531, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.07573755, y: 0.0000015560148, z: 0.00000066228677}
+        inSlope: {x: 0, y: 0, z: 0.00000046139272}
+        outSlope: {x: 0, y: 0, z: 0.00000046139272}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.07573717, y: 0.0000015518166, z: 0.000001603039}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.07573732, y: 0.0000016163107, z: 0.00000055809505}
+        inSlope: {x: -0.00000012665987, y: 0, z: 0}
+        outSlope: {x: -0.00000012665987, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.07573755, y: 0.0000015560148, z: 0.00000066228677}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.075737394, y: 0.0000015625413, z: 0.000000067346264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.075734645, y: -0.0000005492476, z: 0.000004296191}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.075737394, y: 0.0000015625413, z: 0.000000067346264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.08193828, y: 0.000000101921614, z: 0.0000016128288}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.08193836, y: 0.00000014330726, z: 0.000001739234}
+        inSlope: {x: 0, y: 0.000000036185764, z: 0}
+        outSlope: {x: 0, y: 0.000000036185764, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.081938356, y: 0.0000002104789, z: 0.0000017348211}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.081937246, y: 0.00000018905848, z: 0.000002949033}
+        inSlope: {x: 0.00000038494667, y: -0, z: 0}
+        outSlope: {x: 0.00000038494667, y: -0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.0819372, y: 0.000000088475645, z: 0.000002878718}
+        inSlope: {x: 0.000000027318796, y: 0, z: -0}
+        outSlope: {x: 0.000000027318796, y: 0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.081937164, y: 0.0000004907488, z: 0.0000026407652}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.08193697, y: 0.00000004004687, z: 0.000003369525}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.08193828, y: 0.000000101921614, z: 0.0000016128288}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.08193773, y: 0.0000005941838, z: 0.0000038268045}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.08193828, y: 0.000000101921614, z: 0.0000016128288}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.08218552, y: 0.000000036010533, z: -0.000000009778887}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.08218553, y: 0.000000028299837, z: -0.00000003556488}
+        inSlope: {x: -0.000000009934108, y: -0.000000010280929, z: 0}
+        outSlope: {x: -0.000000009934108, y: -0.000000010280929, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.1599995, y: -0.1029997, z: 0.0069996812}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.08219178, y: 0.0000023022294, z: -0.0000014365651}
+        inSlope: {x: 0.000000020096712, y: 0.0000000491152, z: 0}
+        outSlope: {x: 0.000000020096712, y: 0.0000000491152, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.082191765, y: 0.0000023376197, z: -0.0000013690442}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.08218835, y: 0.0000012610108, z: -0.0000005401671}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.082191736, y: 0.0000023655593, z: -0.0000014941324}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.08218563, y: -0.000000015763362, z: 0.00000016507693}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.08218835, y: 0.0000012610108, z: -0.0000005401671}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.08218552, y: 0.000000036010533, z: -0.000000009778887}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.07088066, y: -0.000003021348, z: -0.00000018184073}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.07087971, y: -0.000003147011, z: -0.000000016530976}
+        inSlope: {x: 0.00000033527613, y: 0, z: 0}
+        outSlope: {x: 0.00000033527613, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.07087965, y: -0.0000028116622, z: 0.0000004991889}
+        inSlope: {x: 0.000000059604645, y: 0, z: 0}
+        outSlope: {x: 0.000000059604645, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.070879534, y: -0.0000028594943, z: 0.00000043550972}
+        inSlope: {x: 0, y: -0.000000024680048, z: 0}
+        outSlope: {x: 0, y: -0.000000024680048, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.07087954, y: -0.0000028857023, z: 0.00000046065543}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.07088065, y: -0.0000025853508, z: -0.0000013709068}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.07087952, y: -0.000002950662, z: 0.0000005448237}
+        inSlope: {x: 0, y: -0.00000018564363, z: 0}
+        outSlope: {x: 0, y: -0.00000018564363, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.070880845, y: -0.0000031422817, z: -0.00000006722985}
+        inSlope: {x: 0, y: 0, z: -0.00000063857686}
+        outSlope: {x: 0, y: 0, z: -0.00000063857686}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.07088065, y: -0.0000025853508, z: -0.0000013709068}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.07088066, y: -0.000003021348, z: -0.00000018184073}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.1112456, y: 0.00000058555463, z: -0.00000014313264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.111247726, y: 0.0000027483336, z: 0.0000021727756}
+        inSlope: {x: -0.0000007177393, y: 0, z: 0}
+        outSlope: {x: -0.0000007177393, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.111247756, y: 0.0000026910573, z: 0.000002159737}
+        inSlope: {x: 0, y: -0.00000006426126, z: -0}
+        outSlope: {x: 0, y: -0.00000006426126, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.111247696, y: 0.0000025555498, z: 0.0000020656735}
+        inSlope: {x: 0, y: 0, z: -0.00000006426126}
+        outSlope: {x: 0, y: 0, z: -0.00000006426126}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.111247726, y: 0.000002570451, z: 0.0000019669533}
+        inSlope: {x: -0, y: 0, z: -0}
+        outSlope: {x: -0, y: 0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.11125301, y: 0.0000027213252, z: 0.0000015455298}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.11124906, y: 0.0000026114292, z: 0.000002142042}
+        inSlope: {x: 0.0000024586916, y: -0, z: 0}
+        outSlope: {x: 0.0000024586916, y: -0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.11124563, y: 0.00000055413705, z: -0.0000002766028}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.111255676, y: 0.0000032857067, z: 0.00000047683716}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.1112456, y: 0.00000058555463, z: -0.00000014313264}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.060856372, y: 0.00000003480818, z: -0.00000057392026}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.060857456, y: -0.00000026542693, z: 0.0000004830945}
+        inSlope: {x: -0.00000042592487, y: -0.00000017962884, z: 0.00000053529465}
+        outSlope: {x: -0.00000042592487, y: -0.00000017962884, z: 0.00000053529465}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.06085765, y: -0.00000050407834, z: 0.0000010319636}
+        inSlope: {x: 0, y: -0.00000012883295, z: 0.00000020094255}
+        outSlope: {x: 0, y: -0.00000012883295, z: 0.00000020094255}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.060857616, y: -0.0000006519258, z: 0.0000010859221}
+        inSlope: {x: 0, y: -0.00000010919757, z: 0}
+        outSlope: {x: 0, y: -0.00000010919757, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.060858116, y: -0.00000083167106, z: 0.0000012903474}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.060857177, y: -0.0000004189351, z: 0.00000032713433}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.060857743, y: -0.0000005620532, z: 0.0000009927899}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.06085458, y: -0.00000037439167, z: -0.0000007986673}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.06085723, y: -0.00000042968895, z: 0.0000002944871}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.060856372, y: 0.00000003480818, z: -0.00000057392026}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: {x: -0.105335236, y: 0, z: 0.0000000011920929}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1.5
+        value: {x: -0.10534027, y: 0.00000072130933, z: 0.00000027188798}
+        inSlope: {x: -0.000001800557, y: 0, z: 0.0000003559111}
+        outSlope: {x: -0.000001800557, y: 0, z: 0.0000003559111}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 3
+        value: {x: -0.10534064, y: -0.00000003632158, z: 0.0000010689255}
+        inSlope: {x: -0.00000014156103, y: -0.00000027163574, z: 0}
+        outSlope: {x: -0.00000014156103, y: -0.00000027163574, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 4.5
+        value: {x: -0.1053407, y: -0.00000009359792, z: 0.0000010300428}
+        inSlope: {x: 0, y: -0, z: -0}
+        outSlope: {x: 0, y: -0, z: -0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 6
+        value: {x: -0.10534057, y: -0.00000048056245, z: -0.0000020600855}
+        inSlope: {x: 0, y: -0.00000044656917, z: 0}
+        outSlope: {x: 0, y: -0.00000044656917, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 7.5
+        value: {x: -0.10534136, y: -0.0000014333054, z: -0.00000014837133}
+        inSlope: {x: 0, y: 0, z: 0.0000010300428}
+        outSlope: {x: 0, y: 0, z: 0.0000010300428}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 9
+        value: {x: -0.1053407, y: -0.00000009359792, z: 0.0000010300428}
+        inSlope: {x: 0, y: 0.0000004777685, z: 0}
+        outSlope: {x: 0, y: 0.0000004777685, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 10.5
+        value: {x: -0.105335236, y: 0, z: 0.0000000011920929}
+        inSlope: {x: 0, y: 0, z: -0.00000039220322}
+        outSlope: {x: 0, y: 0, z: -0.00000039220322}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 12
+        value: {x: -0.10534174, y: -0.0000012721866, z: -0.00000014656689}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 13.5
+        value: {x: -0.105335236, y: 0, z: 0.0000000011920929}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 20
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 464259128
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 203941415
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2796286419
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1966768558
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1159331322
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2634970374
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 201411439
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2143055245
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1880783457
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2728884186
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 464259128
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 203941415
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2796286419
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1966768558
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1159331322
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2634970374
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 201411439
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2143055245
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1880783457
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2728884186
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 13.5
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.044000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.044000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.044000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -1.7750001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -1.7730001
+        inSlope: 0.0026666324
+        outSlope: 0.0026666324
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.91
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -1.7750001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.044000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.91
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.044000003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.2580004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 7.2580004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 7.2580004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -7.7970004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -7.781
+        inSlope: 0.021333694
+        outSlope: 0.021333694
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.27
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -7.7970004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 7.2580004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.27
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 7.2580004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 10.265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -6.642
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -6.4020004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -15.678
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 7.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -6.4020004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -3.2730002
+        inSlope: 4.1720004
+        outSlope: 4.1720004
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 7.01
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 4.281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1362109
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.13621059
+        inSlope: 0.00000031292439
+        outSlope: 0.00000031292439
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.13620996
+        inSlope: 0.0000002682209
+        outSlope: 0.0000002682209
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.13620979
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.13620824
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.13620923
+        inSlope: -0.0000005165736
+        outSlope: -0.0000005165736
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.13620979
+        inSlope: -0.0000005265077
+        outSlope: -0.0000005265077
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.13621081
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.13620923
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.1362109
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000000039115548
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.00000004156027
+        inSlope: -0.0000000024447218
+        outSlope: -0.0000000024447218
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.000000046449713
+        inSlope: -0.0000000020954758
+        outSlope: -0.0000000020954758
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.000000047846697
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.00000005995389
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.000000052154064
+        inSlope: 0.0000000040357313
+        outSlope: 0.0000000040357313
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.000000047846697
+        inSlope: 0.0000000041133412
+        outSlope: 0.0000000041133412
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.00000003981404
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.000000052154064
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.000000039115548
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -1.7680001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -11.790001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -1.7910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -1.001
+        inSlope: 0.08133332
+        outSlope: 0.08133332
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 17.596
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 54.692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -1.062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -6.3170004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -3.755
+        inSlope: 3.4160001
+        outSlope: 3.4160001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 7.7360005
+        inSlope: 8.709001
+        outSlope: 8.709001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 22.372002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -24.577002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 16.967001
+        inSlope: 7.2066708
+        outSlope: 7.2066708
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 22.372002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -42.797
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 12.4140005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -6.3170004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.07794268
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.077942654
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.077942766
+        inSlope: -0.000000049670536
+        outSlope: -0.000000049670536
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.07794288
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.07794494
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.077942766
+        inSlope: 0.00000076492626
+        outSlope: 0.00000076492626
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.07794265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.07794512
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.07794268
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000000019557774
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.000000021362212
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.000000049287337
+        inSlope: -0.000000023360675
+        outSlope: -0.000000023360675
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.00000012648525
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.000002361834
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.000000049287337
+        inSlope: 0.0000007800506
+        outSlope: 0.0000007800506
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.000000021682354
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000022631139
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.000000019557774
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000009392461
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000010020958
+        inSlope: 0.000000030512133
+        outSlope: 0.000000030512133
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000010765507
+        inSlope: 0.000000017567395
+        outSlope: 0.000000017567395
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000010811491
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000014003599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000010765507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.0000011832017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000016604608
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.0000009392461
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.1550001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.1550001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 2.138
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 2.138
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 2.125
+        inSlope: -0.017333347
+        outSlope: -0.017333347
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -1.9350001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 2.138
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 1.6980001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 6.8100004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 1.1550001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 10.910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 10.910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -8.583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -8.583
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -8.588
+        inSlope: -0.006666819
+        outSlope: -0.006666819
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -10.023001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -8.583
+        inSlope: 1.9200008
+        outSlope: 1.9200008
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 26.742
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 12.706
+        inSlope: -2.394666
+        outSlope: -2.394666
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 10.910001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.1490002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 4.281
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -47.113003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 8.027
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -17.487001
+        inSlope: -0.26266557
+        outSlope: -0.26266557
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -17.684
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 8.027
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -1.7520001
+        inSlope: -9.442
+        outSlope: -9.442
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -20.299002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -2.1490002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.07558397
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.075584516
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.07558373
+        inSlope: 0.00000027318796
+        outSlope: 0.00000027318796
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.0755837
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.07558298
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0755835
+        inSlope: -0.00000023841858
+        outSlope: -0.00000023841858
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.0755837
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.07558336
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.07558414
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.07558397
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000004275516
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000043491195
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.00000426422
+        inSlope: -0.00000006700308
+        outSlope: -0.00000006700308
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000041481103
+        inSlope: -0.000000041497213
+        outSlope: -0.000000041497213
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000041397284
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.00000420073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000041481103
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.000004846602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000040926966
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.000004275516
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00000014234683
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.000000094325515
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.000005078502
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000050390954
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000058567384
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000030198134
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000050390954
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.00000035960693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000036600977
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.00000014234683
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.79200006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.79200006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 5.1990004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 3.4570003
+        inSlope: -2.322667
+        outSlope: -2.322667
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -11.543
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -9.817
+        inSlope: 2.3013332
+        outSlope: 2.3013332
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 3.4570003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.79200006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 11.021001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.79200006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 5.7720003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 5.7720003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -44.132004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -20.829
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -28.044
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 5.6590004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -20.829
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 5.7720003
+        inSlope: 10.861333
+        outSlope: 10.861333
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 13.918
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 5.7720003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 6.1250005
+        inSlope: 2.7186673
+        outSlope: 2.7186673
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 17.826
+        inSlope: 6.4483337
+        outSlope: 6.4483337
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 25.470001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -22.854002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 14.124001
+        inSlope: 15.128001
+        outSlope: 15.128001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 25.470001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 4.086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 14.779
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 4.086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.075737394
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.07573743
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.07573759
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.07573755
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.07573717
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.07573732
+        inSlope: -0.00000012665987
+        outSlope: -0.00000012665987
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.07573755
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.075737394
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.075734645
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.075737394
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000015625413
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000014715482
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000014994297
+        inSlope: 0.000000028155531
+        outSlope: 0.000000028155531
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000015560148
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000015518166
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000016163107
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000015560148
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.0000015625413
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000005492476
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.0000015625413
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000000067346264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.000000076252036
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000002188608
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.00000066228677
+        inSlope: 0.00000046139272
+        outSlope: 0.00000046139272
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.000001603039
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.00000055809505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.00000066228677
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.000000067346264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.000004296191
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.000000067346264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.96400005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.96400005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 2.102
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 2.102
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -4.5540004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 17.172
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -6.341
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.96400005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -53.65
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.96400005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 12.559001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 12.559001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -9.891001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -9.891001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -30.316002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 35.236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -36.049004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 12.559001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 6.0290003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 12.559001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.3500004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 7.7900004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 7.564
+        inSlope: -0.30133376
+        outSlope: -0.30133376
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -18.086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -17.644001
+        inSlope: 0.58933264
+        outSlope: 0.58933264
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 17.412
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -17.099
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 4.3500004
+        inSlope: 15.312668
+        outSlope: 15.312668
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 28.839
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 4.3500004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.08193828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.08193836
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.081938356
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.081937246
+        inSlope: 0.00000038494667
+        outSlope: 0.00000038494667
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.0819372
+        inSlope: 0.000000027318796
+        outSlope: 0.000000027318796
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.081937164
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.08193697
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.08193828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.08193773
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.08193828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000000101921614
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.00000014330726
+        inSlope: 0.000000036185764
+        outSlope: 0.000000036185764
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000002104789
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.00000018905848
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.000000088475645
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000004907488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.00000004004687
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.000000101921614
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000005941838
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.000000101921614
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000016128288
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.000001739234
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000017348211
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.000002949033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.000002878718
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000026407652
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.000003369525
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.0000016128288
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000038268045
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.0000016128288
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1.1520001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 1.1520001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -3.3420002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -3.3420002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.70500004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -21.962002
+        inSlope: -12.269666
+        outSlope: -12.269666
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -36.104
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 1.1520001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -21.962002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 1.1520001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -21.79
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -21.79
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.42600003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.42600003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 21.275002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -9.924001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 7.649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -21.79
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -9.924001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -21.79
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 3.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 11.51
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -59.062004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -10.624001
+        inSlope: 23.319336
+        outSlope: 23.319336
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 10.896001
+        inSlope: 19.313334
+        outSlope: 19.313334
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 47.316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -13.167001
+        inSlope: -25.952005
+        outSlope: -25.952005
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -32.631
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 47.316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 3.301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.08218552
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.08218553
+        inSlope: -0.000000009934108
+        outSlope: -0.000000009934108
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.1599995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.08219178
+        inSlope: 0.000000020096712
+        outSlope: 0.000000020096712
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.082191765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.08218835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.082191736
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.08218563
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.08218835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.08218552
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.000000036010533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.000000028299837
+        inSlope: -0.000000010280929
+        outSlope: -0.000000010280929
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.1029997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000023022294
+        inSlope: 0.0000000491152
+        outSlope: 0.0000000491152
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000023376197
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000012610108
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000023655593
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.000000015763362
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000012610108
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.000000036010533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000000009778887
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.00000003556488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0069996812
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.0000014365651
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.0000013690442
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0000005401671
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.0000014941324
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.00000016507693
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000005401671
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.000000009778887
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -2.6520002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -2.6520002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -5.4500003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -5.4500003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -43.195004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 75.267006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 24.848001
+        inSlope: -25.973001
+        outSlope: -25.973001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -2.6520002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 75.267006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -2.6520002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 37.544003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 37.544003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -5.3580003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -5.3580003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 15.959001
+        inSlope: 14.680335
+        outSlope: 14.680335
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 38.683002
+        inSlope: 0.57200265
+        outSlope: 0.57200265
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 39.112003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 37.544003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 38.683002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 37.544003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 4.0230002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 20.099
+        inSlope: 7.382667
+        outSlope: 7.382667
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 26.171001
+        inSlope: 8.096001
+        outSlope: 8.096001
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 52.954002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 9.157001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 62.732002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 61.116
+        inSlope: -2.154668
+        outSlope: -2.154668
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 20.944
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 62.732002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 4.0230002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.07088066
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.07087971
+        inSlope: 0.00000033527613
+        outSlope: 0.00000033527613
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.07087965
+        inSlope: 0.000000059604645
+        outSlope: 0.000000059604645
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.070879534
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.07087954
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.07088065
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.07087952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.070880845
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.07088065
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.07088066
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000003021348
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.000003147011
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.0000028116622
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.0000028594943
+        inSlope: -0.000000024680048
+        outSlope: -0.000000024680048
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.0000028857023
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0000025853508
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.000002950662
+        inSlope: -0.00000018564363
+        outSlope: -0.00000018564363
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.0000031422817
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000025853508
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.000003021348
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00000018184073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.000000016530976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000004991889
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.00000043550972
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.00000046065543
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0000013709068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000005448237
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.00000006722985
+        inSlope: -0.00000063857686
+        outSlope: -0.00000063857686
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000013709068
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.00000018184073
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 16.058
+        inSlope: 7.8470006
+        outSlope: 7.8470006
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 23.146002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 17.679
+        inSlope: -7.289335
+        outSlope: -7.289335
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.51100004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 45.725002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.395
+        inSlope: -0.15466645
+        outSlope: -0.15466645
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.51100004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 10.408001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 10.408001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 11.861001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -7.781
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 7.971
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -3.2440002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 2.273
+        inSlope: 4.5506673
+        outSlope: 4.5506673
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 10.408001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -3.2440002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 10.408001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -9.456
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -25.288002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 5.118
+        inSlope: 14.239667
+        outSlope: 14.239667
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 17.431002
+        inSlope: 5.9480004
+        outSlope: 5.9480004
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 22.962002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 5.0140004
+        inSlope: -15.319
+        outSlope: -15.319
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -22.995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 37.355003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -21.661001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -9.456
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1112456
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.111247726
+        inSlope: -0.0000007177393
+        outSlope: -0.0000007177393
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.111247756
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.111247696
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.111247726
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.11125301
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.11124906
+        inSlope: 0.0000024586916
+        outSlope: 0.0000024586916
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.11124563
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.111255676
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.1112456
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00000058555463
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000027483336
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000026910573
+        inSlope: -0.00000006426126
+        outSlope: -0.00000006426126
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000025555498
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.000002570451
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000027213252
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000026114292
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.00000055413705
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000032857067
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.00000058555463
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00000014313264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000021727756
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.000002159737
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000020656735
+        inSlope: -0.00000006426126
+        outSlope: -0.00000006426126
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000019669533
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.0000015455298
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.000002142042
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.0000002766028
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.00000047683716
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.00000014313264
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.84700006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.84700006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.46500003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 2.7540002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -11.959001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -8.492001
+        inSlope: 4.622667
+        outSlope: 4.622667
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 2.7540002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.84700006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.92700005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.84700006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 8.161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 8.161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 7.1450005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 13.26
+        inSlope: 8.153334
+        outSlope: 8.153334
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 63.272003
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -13.3810005
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 13.26
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 8.161
+        inSlope: -6.7986665
+        outSlope: -6.7986665
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -13.387001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 8.161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -3.2110002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -20.585001
+        inSlope: -10.232333
+        outSlope: -10.232333
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -33.908
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -20.425001
+        inSlope: 7.1283336
+        outSlope: 7.1283336
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -12.523001
+        inSlope: 6.796
+        outSlope: 6.796
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.037
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -38.691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 15.394001
+        inSlope: 13.482671
+        outSlope: 13.482671
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 25.506
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -3.2110002
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.060856372
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.060857456
+        inSlope: -0.00000042592487
+        outSlope: -0.00000042592487
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.06085765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.060857616
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.060858116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.060857177
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.060857743
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.06085458
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.06085723
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.060856372
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.00000003480818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.00000026542693
+        inSlope: -0.00000017962884
+        outSlope: -0.00000017962884
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.00000050407834
+        inSlope: -0.00000012883295
+        outSlope: -0.00000012883295
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.0000006519258
+        inSlope: -0.00000010919757
+        outSlope: -0.00000010919757
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.00000083167106
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0000004189351
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.0000005620532
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.00000037439167
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.00000042968895
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.00000003480818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.00000057392026
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.0000004830945
+        inSlope: 0.00000053529465
+        outSlope: 0.00000053529465
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000010319636
+        inSlope: 0.00000020094255
+        outSlope: 0.00000020094255
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000010859221
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 0.0000012903474
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 0.00000032713433
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000009927899
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.0000007986673
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 0.0000002944871
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.00000057392026
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.79600006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.79600006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 27.342001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 25.395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 27.075
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 13.935
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 25.395
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.79600006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 13.935
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.79600006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 7.8700004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 7.8700004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 40.478
+        inSlope: 19.956335
+        outSlope: 19.956335
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 67.739006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 53.522003
+        inSlope: -13.927335
+        outSlope: -13.927335
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 25.957
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 67.739006
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 7.8700004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 25.957
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 7.8700004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -43.159
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -34.802002
+        inSlope: 11.142665
+        outSlope: 11.142665
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 10.620001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: 4.309
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: 71.784004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 10.620001
+        inSlope: -14.429335
+        outSlope: -14.429335
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: 81.97
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.105335236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: -0.10534027
+        inSlope: -0.000001800557
+        outSlope: -0.000001800557
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.10534064
+        inSlope: -0.00000014156103
+        outSlope: -0.00000014156103
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.1053407
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.10534057
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.10534136
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.1053407
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: -0.105335236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.10534174
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: -0.105335236
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.00000072130933
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: -0.00000003632158
+        inSlope: -0.00000027163574
+        outSlope: -0.00000027163574
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: -0.00000009359792
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.00000048056245
+        inSlope: -0.00000044656917
+        outSlope: -0.00000044656917
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.0000014333054
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: -0.00000009359792
+        inSlope: 0.0000004777685
+        outSlope: 0.0000004777685
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.0000012721866
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.0000000011920929
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 1.5
+        value: 0.00000027188798
+        inSlope: 0.0000003559111
+        outSlope: 0.0000003559111
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 3
+        value: 0.0000010689255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 4.5
+        value: 0.0000010300428
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 6
+        value: -0.0000020600855
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 7.5
+        value: -0.00000014837133
+        inSlope: 0.0000010300428
+        outSlope: 0.0000010300428
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 9
+        value: 0.0000010300428
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 10.5
+        value: 0.0000000011920929
+        inSlope: -0.00000039220322
+        outSlope: -0.00000039220322
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 12
+        value: -0.00000014656689
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      - serializedVersion: 2
+        time: 13.5
+        value: 0.0000000011920929
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Bone_Cola_main/Bone_Cola_1/Bone_Cola_2/Bone_Cola_3/Bone_Cola_4/Bone_Cola_5/Bone_Cola_6/Bone_Cola_7/Bone_Cola_8/Bone_Cola_9/Bone_Cola_10
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

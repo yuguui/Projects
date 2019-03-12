@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1040772157961288}
+  m_IsPrefabParent: 1
+--- !u!1 &1040772157961288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4094183176537374}
+  - component: {fileID: 114283033953106388}
+  m_Layer: 0
+  m_Name: cityBlock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4094183176537374
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1040772157961288}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 13.2708435, y: 0, z: 7.501179}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114283033953106388
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1040772157961288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c552cd32053d0a4fb1383b721557a1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buildings:
+  - {fileID: 1103153458733902, guid: 7eb8b395c5b50d149bc27e47d64a5751, type: 2}
+  - {fileID: 1240304802941612, guid: daf2a224ae46a7740b1c40551667497b, type: 2}
+  - {fileID: 1606232272078524, guid: b613f439bf5706943b7137ec5008c4a4, type: 2}
+  - {fileID: 1374943049358722, guid: cfc025b77c147b74e9f29b15be61bcb3, type: 2}
+  - {fileID: 1267445858946852, guid: f8af750b35c43594a9f65bb83053509b, type: 2}
+  - {fileID: 1364378106122210, guid: de1be8427e18ac941a82e790c1b4c095, type: 2}
+  - {fileID: 1732995501783326, guid: 650014d543b5ac241b506a28d61e7224, type: 2}
+  - {fileID: 1477044815038480, guid: fed83b07100288240a76c6c137381ecb, type: 2}
+  - {fileID: 1634242551588094, guid: 30f89389e81996640a9f85e0bb30e7d8, type: 2}
+  - {fileID: 1231824700006360, guid: b4cf64ba27744e8409c8d2c2048a388a, type: 2}
+  - {fileID: 1089330304397284, guid: 18d143070c033534ebb0d86c83acd1de, type: 2}
+  - {fileID: 1675631109274412, guid: 904ebef051c7bd046b3ecef19bf9be82, type: 2}
+  - {fileID: 1315532049682402, guid: 3794f58edb1e4ca40b8e5c29a04a4d1b, type: 2}
+  - {fileID: 1294945503055316, guid: 9bdc675c6dd731442aca5b2555583fc9, type: 2}
+  - {fileID: 1614163410132752, guid: 2f808d9d95490454d8cc736777c6bfd9, type: 2}
+  Xstreet: {fileID: 100000, guid: ca5822f2f5604934f90a10b14ada3e12, type: 3}
+  Zstreet: {fileID: 1429084333200654, guid: fd441cd7407d4a942a235455460816dc, type: 2}
+  crossroad: {fileID: 1355214892178742, guid: b033561af5e82fd4a90dcffc74c1ed31, type: 2}
+  xInicial: 0
+  yInicial: 0
+  seed: 0
+  activated: 0

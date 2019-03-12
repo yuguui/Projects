@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: c84cc85ce226b3c43a5a599b23c33498
+timeCreated: 1523104856
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone_Brazo_der_1
+    100004: Bone_Brazo_der_2
+    100006: Bone_Brazo_der_3
+    100008: Bone_Brazo_der_4
+    100010: Bone_Brazo_der_main
+    100012: Bone_Brazo_izq_1
+    100014: Bone_Brazo_izq_2
+    100016: Bone_Brazo_izq_3
+    100018: Bone_Brazo_izq_4
+    100020: Bone_Brazo_izq_main
+    100022: Bone_Cola_1
+    100024: Bone_Cola_10
+    100026: Bone_Cola_2
+    100028: Bone_Cola_3
+    100030: Bone_Cola_4
+    100032: Bone_Cola_5
+    100034: Bone_Cola_6
+    100036: Bone_Cola_7
+    100038: Bone_Cola_8
+    100040: Bone_Cola_9
+    100042: Bone_Cola_main
+    100044: Bone_Pierna_der_1
+    100046: Bone_Pierna_der_2
+    100048: Bone_Pierna_der_main
+    100050: Bone_Pierna_izq_1
+    100052: Bone_Pierna_izq_1 1
+    100054: Bone_Pierna_izq_2
+    100056: Bone_Pierna_izq_2 1
+    100058: Bone_Pierna_izq_main
+    100060: Bone_Pierna_izq_main 1
+    100062: Bone_Tronco_1
+    100064: Bone_Tronco_2
+    100066: Bone_Tronco_3
+    100068: Bone_Tronco_main
+    100070: brazo der
+    100072: brazo izq
+    100074: "ca\xF1on"
+    100076: cola
+    100078: esfera der
+    100080: esfera izq
+    100082: espada
+    100084: pierna der
+    100086: pierna izq
+    100088: pierna izq 1
+    100090: torso
+    400000: //RootNode
+    400002: Bone_Brazo_der_1
+    400004: Bone_Brazo_der_2
+    400006: Bone_Brazo_der_3
+    400008: Bone_Brazo_der_4
+    400010: Bone_Brazo_der_main
+    400012: Bone_Brazo_izq_1
+    400014: Bone_Brazo_izq_2
+    400016: Bone_Brazo_izq_3
+    400018: Bone_Brazo_izq_4
+    400020: Bone_Brazo_izq_main
+    400022: Bone_Cola_1
+    400024: Bone_Cola_10
+    400026: Bone_Cola_2
+    400028: Bone_Cola_3
+    400030: Bone_Cola_4
+    400032: Bone_Cola_5
+    400034: Bone_Cola_6
+    400036: Bone_Cola_7
+    400038: Bone_Cola_8
+    400040: Bone_Cola_9
+    400042: Bone_Cola_main
+    400044: Bone_Pierna_der_1
+    400046: Bone_Pierna_der_2
+    400048: Bone_Pierna_der_main
+    400050: Bone_Pierna_izq_1
+    400052: Bone_Pierna_izq_1 1
+    400054: Bone_Pierna_izq_2
+    400056: Bone_Pierna_izq_2 1
+    400058: Bone_Pierna_izq_main
+    400060: Bone_Pierna_izq_main 1
+    400062: Bone_Tronco_1
+    400064: Bone_Tronco_2
+    400066: Bone_Tronco_3
+    400068: Bone_Tronco_main
+    400070: brazo der
+    400072: brazo izq
+    400074: "ca\xF1on"
+    400076: cola
+    400078: esfera der
+    400080: esfera izq
+    400082: espada
+    400084: pierna der
+    400086: pierna izq
+    400088: pierna izq 1
+    400090: torso
+    2100000: 'Material #24'
+    2100002: 'Material #27'
+    2100004: 'Material #25'
+    2100006: 'Material #28'
+    2100008: 'Material #29'
+    2100010: 'Material #23'
+    2100012: 'Material #26'
+    2100014: 'Material #30'
+    2100016: 'Material #32'
+    2100018: 'Material #31'
+    2300000: "ca\xF1on"
+    2300002: esfera der
+    2300004: esfera izq
+    2300006: espada
+    3300000: "ca\xF1on"
+    3300002: esfera der
+    3300004: esfera izq
+    3300006: espada
+    4300000: torso
+    4300002: pierna der
+    4300004: brazo izq
+    4300006: brazo der
+    4300008: cola
+    4300010: espada
+    4300012: "ca\xF1on"
+    4300014: esfera der
+    4300016: esfera izq
+    4300018: pierna izq
+    4300020: pierna izq
+    9500000: //RootNode
+    13700000: brazo der
+    13700002: brazo izq
+    13700004: cola
+    13700006: pierna der
+    13700008: pierna izq
+    13700010: pierna izq 1
+    13700012: torso
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

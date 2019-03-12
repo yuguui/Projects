@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 2935adf120d2b7f4bba0a8c57711cd7b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group10091
+    100002: Group10485
+    100004: Group11404
+    100006: Group11576
+    100008: Group12032
+    100010: Group12328
+    100012: Group16205
+    100014: Group17363
+    100016: Group17943
+    100018: Group18215
+    100020: Group28688
+    100022: Group8788
+    100024: //RootNode
+    400000: Group10091
+    400002: Group10485
+    400004: Group11404
+    400006: Group11576
+    400008: Group12032
+    400010: Group12328
+    400012: Group16205
+    400014: Group17363
+    400016: Group17943
+    400018: Group18215
+    400020: Group28688
+    400022: Group8788
+    400024: //RootNode
+    2100000: Group10091Mat
+    2100002: Group10485Mat
+    2100004: Group11404Mat
+    2100006: Group11576Mat
+    2100008: Group12032Mat
+    2100010: Group12328Mat
+    2100012: Group16205Mat
+    2100014: Group17363Mat
+    2100016: Group17943Mat
+    2100018: Group18215Mat
+    2100020: Group28688Mat
+    2100022: Group8788Mat
+    2300000: Group10091
+    2300002: Group10485
+    2300004: Group11404
+    2300006: Group11576
+    2300008: Group12032
+    2300010: Group12328
+    2300012: Group16205
+    2300014: Group17363
+    2300016: Group17943
+    2300018: Group18215
+    2300020: Group28688
+    2300022: Group8788
+    3300000: Group10091
+    3300002: Group10485
+    3300004: Group11404
+    3300006: Group11576
+    3300008: Group12032
+    3300010: Group12328
+    3300012: Group16205
+    3300014: Group17363
+    3300016: Group17943
+    3300018: Group18215
+    3300020: Group28688
+    3300022: Group8788
+    4300000: Group10091
+    4300002: Group10485
+    4300004: Group11404
+    4300006: Group11576
+    4300008: Group12032
+    4300010: Group12328
+    4300012: Group16205
+    4300014: Group17363
+    4300016: Group17943
+    4300018: Group18215
+    4300020: Group28688
+    4300022: Group8788
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
